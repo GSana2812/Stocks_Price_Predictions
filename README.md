@@ -9,4 +9,4 @@ If you are interested to have a look how the app looks like, please feel free:
 
 [Stock Price Prediction App](https://stockspredictionsapp.azurewebsites.net)
 
-
+Libraries used: yfinance, streamlit, plotly, prophet
